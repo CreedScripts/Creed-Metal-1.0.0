@@ -1,0 +1,81 @@
+Items to add into ox_inventory/data/items.lua
+
+['metal_detector'] = {
+		label = 'Metal Detector',
+		weight = 1500,
+		stack = true,
+		close = true,
+		client = {
+			event = 'creed:useMetalDetector'
+		}
+	},
+
+	['plastic'] = {
+		label = 'plastic',
+		weight = 15,
+	},
+
+	['steel'] = {
+		label = 'steel',
+		weight = 15,
+	},
+
+	['copper'] = {
+		label = 'copper',
+		weight = 15,
+	},
+
+	['iron'] = {
+		label = 'iron',
+		weight = 15,
+	},
+
+	['metalscrap'] = {
+		label = 'Metal Scrap',
+		weight = 15,
+	},
+
+	['rustynail'] = {
+		label = 'Rusty Nail',
+		weight = 15,
+	},
+
+	['gun_case'] = {
+		label = 'Weapon Case',
+		weight = 15,
+	},
+
+	['old_coin'] = {
+		label = 'Old Coin',
+		weight = 15,
+	},
+
+	['old_watch'] = {
+		label = 'Old Watch',
+		weight = 15,
+	},
+
+	['chain'] = {
+		label = 'Chain',
+		weight = 15,
+	},
+
+	['toycar'] = {
+		label = 'Toy Car',
+		weight = 15,
+	},
+
+	['goldtoycar'] = {
+		label = 'Gold Toy Car',
+		weight = 15,
+	},
+
+	['broken_phone'] = {
+		label = 'Broken Phone',
+		weight = 15,
+	},
+
+	['goldwatch'] = {
+		label = 'Golden Watch',
+		weight = 15,
+	},
