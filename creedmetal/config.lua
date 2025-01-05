@@ -3,7 +3,7 @@ Config = {}
 Config.MetalDetectorPrice = 500 -- Price of Metal Detector at shop
 
 
-Config.DiscordWebhook = "YOURWEBHOOKHERE" -- Replace with your actual webhook URL
+Config.DiscordWebhook = "YOUR WEBHOOK HERE" -- Replace with your actual webhook URL
 
 
 Config.NPCLocation = vector4(-1510.18, -926.95, 10.16, 149.41) -- Location of Metal Detector shop
